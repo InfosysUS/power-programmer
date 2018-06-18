@@ -2,7 +2,7 @@
 
 Power Programmers don’t have a manifesto, but if we did, it would go something like this:
 
-:runner: __We’re *fast*__
+:zap: __We’re *fast*__
 
 Working in rapid sprints with an agile methodology, we solve problems fast. When we run out of problems, we find new ones to solve. 
 
@@ -14,7 +14,7 @@ We want to do what excites us: coding. We’re not saddled with goals that are i
 
 We look at the world differently. We answer questions that others have never even asked. We generate creative solutions to complex problems.
 
-:family: __We’re an elite team__
+:dancers: __We’re an elite team__
 
 We are a team of best-in-class programmers. Every day we collaborate, and every day we challenge each other to become better at what we do. 
 
