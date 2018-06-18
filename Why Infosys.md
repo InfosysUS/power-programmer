@@ -16,6 +16,7 @@ The people who work here don’t just change businesses – they change lives, s
 
 Our world-leading development map and culture of continuous learning mean that you will always find yourself achieving more than what you previously thought possible. Through codethons and hackathons, apprenticeship opportunities with leaders, learning programs at Stanford and Purdue, and training in advanced technologies from partners like Udacity we help you build on what you already know and push you to be all that you can be – as a technologist, and as a human being.
 
+
 __Countries where we have happy customers__
 
 45
@@ -27,6 +28,7 @@ __Employees trained in Design Thinking__
 __Employees trained in next gen and emerging tech__
 
 60,000
+
 
 __Perks!__
 
