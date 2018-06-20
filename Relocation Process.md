@@ -4,9 +4,9 @@ All of our US Power Programmers are based in Palo Alto, Silicon Valley. For thos
 
 :dollar: There is $6000 of reimbursement available in total, all claimable based on receipts.
 
-:briefcase: If you’re moving from 1500 miles away or less, we’ll give you $1500 dollars for personal belongings.
+:briefcase: If you’re moving from 1500 miles away or less, we’ll give you $3000 dollars for transportation of personal belongings.
 
-:briefcase: If you’re moving from more than 1500 miles away, we will provide $3000 dollars for personal belongings.
+:briefcase: If you’re moving from more than 1500 miles away, we will provide $4000 dollars for transportation of personal belongings.
 
 :blue_car: We will provide $1000 for a personal vehicle. 
 
