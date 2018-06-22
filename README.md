@@ -11,7 +11,7 @@ A short guide detailing who we are, what we do, how our hiring process works and
 * [Hiring Process](https://github.com/InfosysUS/power-programmer/blob/master/Hiring%20Process.md)
 * [Relocation Process](https://github.com/InfosysUS/power-programmer/blob/master/Relocation%20Process.md)
 * [Why Infosys?](https://github.com/InfosysUS/power-programmer/blob/master/Why%20Infosys.md)
-* [Download Job Pack](https://github.com/InfosysUS/power-programmer/blob/master/Job%20Pack.pdf)
+* [Download Job Pack](https://github.com/InfosysUS/power-programmer/blob/master/Job%20Pack.md)
 
 ## Why become a Power Programmer?
 We designed the Power Programmer career track for polyglots who want more than programming-as-usual – for software engineers who are experts across multiple technologies and who have the power to play the role of a full-stack developer in complex engineering projects.
