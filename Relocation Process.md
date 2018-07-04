@@ -1,6 +1,6 @@
 # Relocation Process
 
-All of our US Power Programmers are based in Palo Alto, Silicon Valley. For those who don’t already live in the Bay Area, we offer a scaling relocation reimbursement package.
+Most our US Power Programmers are based in Palo Alto, Silicon Valley. For those who don’t already live in the Bay Area, we offer a scaling relocation reimbursement package.
 
 :dollar: There is $6000 of reimbursement available in total, all claimable based on receipts.
 
