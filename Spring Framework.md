@@ -13,4 +13,4 @@ A few examples of when Spring comes in handy:
 * We can make a local Java method a management operation without having to deal with JMX APIs.
 * We can make a local Java method a message handler without having to deal with JMS APIs.
 
-[You can see all of the Power Programmer’s key technology areas here.](https://github.com/InfosysUS/power-programmer/blob/master/Key%20Technology%20Areas.md)
+[You can see all of the Power Programmer’s key technology areas here.](https://github.com/InfosysUS/power-programmer/blob/master/Key%20Technology%20Areas.jpg)
