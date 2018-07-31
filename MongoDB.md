@@ -6,6 +6,6 @@ Its flexible data model, dynamic schema and scalability provide many key benefit
 
 For example, our Digital Agriculture solution, with MongoDB at its core, addresses the demand for higher yield within limited farm acreage and severe scarcity of water for irrigation, unleashing the power of data and IoT to surpass gargantuan challenges with a model that is scalable, flexible and responsive.
 
-[You can see all of the Power Programmer’s key technology areas here.](https://github.com/InfosysUS/power-programmer/blob/master/Key%20Technology%20Areas.md)
+[You can see all of the Power Programmer’s key technology areas here.](https://github.com/InfosysUS/power-programmer/blob/master/Key%20Technology%20Areas.jpg)
 
 [Learn more about MongoDB and Infosys here.](https://www.mongodb.com/products/system-integrators/infosys)
