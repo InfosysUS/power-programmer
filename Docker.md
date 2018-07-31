@@ -6,4 +6,4 @@ Docker is a bit like a virtual machine. But unlike a virtual machine, rather tha
 
 And importantly, Docker is open source. This means that anyone can contribute to Docker and extend it to meet their own needs if they need additional features that aren't available out of the box.
 
-[You can see all of the Power Programmer’s key technology areas here.](https://github.com/InfosysUS/power-programmer/blob/master/Key%20Technology%20Areas.md)
+[You can see all of the Power Programmer’s key technology areas here.](https://github.com/InfosysUS/power-programmer/blob/master/Key%20Technology%20Areas.jpg)
