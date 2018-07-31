@@ -15,4 +15,4 @@ Why we use it:
 * Highly-available master through Apache ZooKeeper
 * Web UI for monitoring cluster state
 
-[You can see all of the Power Programmer’s key technology areas here.](https://github.com/InfosysUS/power-programmer/blob/master/Key%20Technology%20Areas.md)
+[You can see all of the Power Programmer’s key technology areas here.](https://github.com/InfosysUS/power-programmer/blob/master/Key%20Technology%20Areas.jpg)
