@@ -10,4 +10,4 @@ Hive supports text files (also called flat files), SequenceFiles (flat files con
 
 Hive adds extensions to provide better performance in the context of Hadoop and to integrate with custom extensions and external programs. It is well suited for batch processing data like: log processing, text mining, document indexing, customer-facing business intelligence, predictive modeling and hypothesis testing.
 
-[You can see all of the Power Programmer’s key technology areas here.](https://github.com/InfosysUS/power-programmer/blob/master/Key%20Technology%20Areas.md)
+[You can see all of the Power Programmer’s key technology areas here.](https://github.com/InfosysUS/power-programmer/blob/master/Key%20Technology%20Areas.jpg)
