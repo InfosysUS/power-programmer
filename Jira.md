@@ -11,4 +11,4 @@ It combines:
 customizable workflow, and a pluggable integration - integrates with Freshdesk, GitHub, Zendesk, Zapbook, Asana and so on.
 * The kanban board to increase the velocity - consist of to do/in progress/in review/done divisions
 
-[You can see all of the Power Programmer’s key technology areas here.](https://github.com/InfosysUS/power-programmer/blob/master/Key%20Technology%20Areas.md)
+[You can see all of the Power Programmer’s key technology areas here.](https://github.com/InfosysUS/power-programmer/blob/master/Key%20Technology%20Areas.jpg)
