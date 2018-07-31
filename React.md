@@ -6,4 +6,4 @@ The big idea behind React is this: what if you could create your own HTML elemen
 
 React is also capable of becoming an entire replacement for your views because you can nest components, composing complex UIs from small and isolated pieces of code. The beauty of this structure is that all HTML and javascript functionality is enclosed in its respective React component, which makes reading (and building) the code of large applications significantly easier and faster.
 
-[You can see all of the Power Programmer’s key technology areas here.](https://github.com/InfosysUS/power-programmer/blob/master/Key%20Technology%20Areas.md)
+[You can see all of the Power Programmer’s key technology areas here.](https://github.com/InfosysUS/power-programmer/blob/master/Key%20Technology%20Areas.jpg)
